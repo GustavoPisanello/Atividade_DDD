@@ -12,7 +12,6 @@ public class Jogo implements JogoInterface {
         this.timeB = timeB;
         this.golsTimeA = golsTimeA;
         this.golsTimeB = golsTimeB;
-        atualizaPlacar();
     }
 
     @Override

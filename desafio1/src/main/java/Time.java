@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Time implements TimeInterface {
-    private String nome;
+    public String nome;
     private String cidade;
     public List<Jogadora> jogadoras = new ArrayList<>();
     public int pontos;
